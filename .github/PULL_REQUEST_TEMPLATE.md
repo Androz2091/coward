@@ -8,7 +8,7 @@ Include a summary of the changes you've made here.
  - [ ] Documentation update (if none of the other choices apply)
 
 ## Checklist
- - [ ] I have read the [CONTRIBUTING](https://github.com/fox-cat/coward/.github/CONTRIBUTING.md) document
+ - [ ] I have read the [CONTRIBUTING](https://github.com/fox-cat/coward/CONTRIBUTING.md) document
  - [ ] I have added necessary documentation (if appropriate)
 
 ## Further comments
